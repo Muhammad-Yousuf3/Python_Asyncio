@@ -3,7 +3,10 @@
 A concise guide to the core concepts of Python’s asyncio library, focusing on non-blocking, concurrent execution.
 
 ---
+## 🌟 1. What is asyncio?
+asyncio is a Python library that lets you write concurrent code using the async and await syntax. It helps you run multiple tasks at the same time without using threads or processes.
 
+---
 ## ✅ Concepts Covered
 
 ### 1. async def
